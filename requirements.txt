@@ -18,3 +18,4 @@ Werkzeug==0.16.0
 selenium
 pillow
 requests
+pip==23.3.2
