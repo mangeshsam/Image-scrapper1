@@ -18,4 +18,3 @@ Werkzeug==0.16.0
 selenium
 pillow
 requests
-Expose 3306
